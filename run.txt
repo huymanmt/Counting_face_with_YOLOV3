@@ -1,0 +1,4 @@
+yolov3-wider_16000.weights is pretrained model by widerface dataset (http://shuoyang1213.me/WIDERFACE/)
+
+#run these codes in command line to count in video:
+python yoloface.py --video input/sample1.mp4
